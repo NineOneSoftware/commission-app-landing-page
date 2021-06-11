@@ -33,33 +33,24 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Add Your Businesses
-    description                           : Set where you conduct business and the commission split you receive for making a sale! Add an unlimited amount of businesses.
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : Add Your Products
-    description                           : Set the price and cost of the products you sell. Add an unlimited amount of products.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Transactions
-    description                           : Transactions are what calculate your commission per sale. Transactions can hold multiple products (line items). Gave a one-off discount? Modify a product's default cost or price directly for a single transaction.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Commissions
-    description                           : All of your commissions from all of your sales and businesses will update automatically as you create and update your transactions for the day.
+  - title                                 : Insight
+    description                           : Quickly see your current expected commission for the month as well as your top selling products; all on your dashboard.
     fontawesome_icon_name                 : sync
 
-  - title                                 : At a Glance
-    description                           : Easily view all of your transactions and commissions by business, product or time period. See your current expected commission for the month as well as your top selling products on the dashboard.
+  - title                                 : Commission at a Glance
+    description                           : With an intuitive filtering system you can easily view all of your transactions and commissions by business, product or time period.
     fontawesome_icon_name                 : adjust
+
+  - title                                 : History
+    description                           : It feels good to have all of your transactions in one place. View a transaction's details that happened yesterday ...or last year.
+    fontawesome_icon_name                 : magic
   
   - title                                 : Reminders
     description                           : Select the days you want and you will receive a reminder on those days to remind you to enter your transactions.
     fontawesome_icon_name                 : star
 
   - title                                 : Data Export
-    description                           : Export your transactions for a time period as a CSV (comma separated value) file. CSV files can then be imported into programs such as Excel or Numbers for further processes or sharing with accounts, co-workers etc.
+    description                           : Export your transactions for a time period as a CSV file. CSV files can be imported into programs such as Excel or Numbers for further processes or sharing with accountants and co-workers.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
 
