@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Nineone Software Inc.                                
+your_name                                 : NineOne Software Inc.                                
 your_link                                 :                      
 your_city                                 : Vancouver                                
 email_address                             : nineonesoftware@gmail.com
@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Insight
-    description                           : Quickly see your expected commission for the month as well as your top selling products; all from your dashboard.
+    description                           : Easily view your expected commission for the month as well as your top selling products; all from Commission's dashboard.
     fontawesome_icon_name                 : sync
 
   - title                                 : Data at a Glance
@@ -52,6 +52,10 @@ features                                  :
   - title                                 : Data Export
     description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV file.
     fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : Unlimited
+    description                           : Add an unlimited amount of businesses and products to track commission on
+    fontawesome_icon_name                 : infinity
 
 
 # Theme Settings
