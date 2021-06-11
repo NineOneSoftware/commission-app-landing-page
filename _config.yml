@@ -46,11 +46,11 @@ features                                  :
     fontawesome_icon_name                 : magic
   
   - title                                 : Reminders
-    description                           : Select the days you want and you will receive a reminder on those days to remind you to enter your transactions.
+    description                           : Busy schedule? Need help remembering to enter in your sales transactions? Setup reminders in Commission that will notify you on the days of the week that you specify.
     fontawesome_icon_name                 : star
 
   - title                                 : Data Export
-    description                           : Export your transactions for a time period as a CSV file. CSV files can be imported into programs such as Excel or Numbers for further processes or sharing with accountants and co-workers.
+    description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
 
