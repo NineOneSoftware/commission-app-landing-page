@@ -34,23 +34,23 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Insight
-    description                           : Quickly see your current expected commission for the month as well as your top selling products; all on your dashboard.
+    description                           : Quickly see your expected commission for the month as well as your top selling products; all from your dashboard.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Commission at a Glance
+  - title                                 : Data at a Glance
     description                           : With an intuitive filtering system you can easily view all of your transactions and commissions by business, product or time period.
     fontawesome_icon_name                 : adjust
 
   - title                                 : History
-    description                           : It feels good to have all of your transactions in one place. View a transaction's details that happened yesterday ...or last year.
+    description                           : It feels good to have all of your data in one place. View a transaction's details that happened yesterday... or last year.
     fontawesome_icon_name                 : magic
   
   - title                                 : Reminders
-    description                           : Busy schedule? Need help remembering to enter in your sales transactions? Setup reminders in Commission that will notify you on the days of the week that you specify.
+    description                           : Need help remembering to input your transactions? Commission can notify you to input your transactions on the days of the week that you specify.
     fontawesome_icon_name                 : star
 
   - title                                 : Data Export
-    description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV.
+    description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV file.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
 
