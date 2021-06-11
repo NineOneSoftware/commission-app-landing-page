@@ -18,7 +18,7 @@
                 });
             </script>
         {% endunless %}
-        {% if file.extname == ".mov" or file.extname == ".mp4" %}
+        {% if file.extname == ".mov" or file.extname == ".MOV" or file.extname == ".mp4" or file.extname == ".MP4" %}
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
@@ -26,7 +26,7 @@
                     console.log("{{ file.path }}");
                 });
             </script>
-        {% elsif file.extname == ".ogg" %}
+        {% elsif file.extname == ".ogg" or file.extname == ".ogv" %}
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
