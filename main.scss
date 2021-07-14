@@ -31,7 +31,7 @@ $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
 .markdown-body a {
-    color: {{ site.link_color }};
+    color: {{ site.feature_icons_foreground_color }};
 }
 
 @import 
