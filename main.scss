@@ -33,4 +33,8 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 @import 
     "base",
     "layout",
-    "github-markdown"
+    "github-markdown";
+
+.markdown-body a {
+    color: {{ site.feature_icons_foreground_color }};
+}
