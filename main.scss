@@ -34,8 +34,3 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
     "base",
     "layout",
     "github-markdown"
-
-
-.markdown-body a {
-    color: {{ site.feature_icons_foreground_color }};
-}

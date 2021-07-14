@@ -1,0 +1,5 @@
+@import "{{ site.theme }}";
+
+.markdown-body a {
+    color: {{ site.feature_icons_foreground_color }};
+}
