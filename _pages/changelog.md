@@ -15,3 +15,10 @@ Initial version of Commission released to the App Store!
 
 <br>
 
+### `CloudSync Release`
+# **Version 1.1**
+CloudSync is now available! CloudSync automatically backs up and syncs your transaction data.
+Increase the maximum amount of transactions viewable.
+General optimizations and improvements.
+
+<br>
