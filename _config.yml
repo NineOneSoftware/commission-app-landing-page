@@ -53,10 +53,17 @@ features                                  :
     description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV file.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Unlimited
+  - title                                 : Unlimited Data
     description                           : Add an unlimited amount of businesses and products to track commission on
     fontawesome_icon_name                 : infinity
 
+  - title                                 : Inventory Management
+    description                           : Manage your product inventory in the Commission app. Products that you enable for inventory management will need to have available inventory to be able to add it to a transaction.
+    fontawesome_icon_name                 : box-open
+
+  - title                                 : Purchases
+    description                           : Add purchases to increase a product's available inventory. The inventory system you choose, either Last In First Out (LIFO) or First In First Out (FIFO), determines the order in which your product's purchases are utilized.
+    fontawesome_icon_name                 : box-open
 
 # Theme Settings
 topbar_color                              : "#000000"
