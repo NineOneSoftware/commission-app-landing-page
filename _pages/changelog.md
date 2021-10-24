@@ -27,5 +27,6 @@ General optimizations and improvements.<br><br>
 # **Version 1.2**
 Inventory Management is now available! Manage your product inventory with the Commission app. <br><br>
 Choose either a LIFO or FIFO inventory system to determine the order your purchases get utilized by transactions.<br><br>
+General optimizations and improvements.<br><br>
 
 <br>
