@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/Icon-60@3x.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Commission                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $3.99 CAD                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Easily track and calculate your commission from multiple businesses and products.
+app_description                           : Essential for salespeople who don\'t like to blindly trust their employer. Track your monthly commission and verify against your payment received.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -53,8 +53,8 @@ features                                  :
     description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV file.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Unlimited Data
-    description                           : Add an unlimited amount of businesses and products to track commission on
+  - title                                 : Unlimited Entries
+    description                           : Add an unlimited amount of businesses, products and sales to the Commission app.
     fontawesome_icon_name                 : infinity
 
   - title                                 : Inventory Management
